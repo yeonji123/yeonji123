@@ -2,12 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
 
-## SNS
-![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?logo=instagram&label=Instagram)
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonji123&show_icons=true&theme=radical)
 
 
 <!--
