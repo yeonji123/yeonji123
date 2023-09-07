@@ -2,6 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonji123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonji123&color=dark)](https://velog.io/@somm)
 
 
 
